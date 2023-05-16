@@ -1,0 +1,10 @@
+.form-container {
+    height: 100px;
+    width: 500px;
+    text-align: right;
+    
+  }
+  .form-container label {
+    display: block;
+    text-align: left;
+  }
